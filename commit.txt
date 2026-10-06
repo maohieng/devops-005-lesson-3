@@ -1,0 +1,4 @@
+Name: MAO
+
+Save edits, then stage the changes you want to record.
+A commit records a snapshot in local history with a message.
